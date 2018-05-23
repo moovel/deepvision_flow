@@ -9,7 +9,7 @@ Find weight as download here: https://drive.google.com/file/d/1Oz1iC3YN-nwtedM5D
 For dataset reference see:
 
 http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=flow
-http://sintel.is.tue.mpg.de/results
+http://sintel.is.tue.mpg.de/
 
 The method can be found under deformable flow in the sintel benchmark. Results are NOT fully fine tuned yet and will improve accordingly. http://sintel.is.tue.mpg.de/results . Results are however far superior to the results published in the official flownet 1/2 paper. 
 
