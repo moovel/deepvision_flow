@@ -1,0 +1,2 @@
+
+nohup python main.py /hd-data/benedict/flow/sintel/training/ --dataset mpi_sintel_clean -a def_flow -s Sintel_train_val.txt > first_try_sintel_clean.txt &
